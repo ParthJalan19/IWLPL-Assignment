@@ -8,4 +8,6 @@ I built a Form validate form using JavaScript, CSS, HTML
   (ii)Then the condition statement is used to verify if name or email is missing or both are missing 
         then second condition if '@' is not present in email which is done using "email.include("@").
         and last condition that includes all conditiion we need is approved then it prints -> "Success! Form submitted".
-        
+
+Tool used:- I ran the code in Visual Studio Code
+To run the code :- derectly through Visual Studio Code and the html, css and js code are displayed on Google chrome and the pythin script is run on the terminal .
