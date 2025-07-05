@@ -11,3 +11,4 @@ I built a Form validate form using JavaScript, CSS, HTML
 
 Tool used:- I ran the code in Visual Studio Code
 To run the code :- derectly through Visual Studio Code and the html, css and js code are displayed on Google chrome and the pythin script is run on the terminal .
+(f5) to run html code and ctrl+alt+n to run pythin code on terminal.
